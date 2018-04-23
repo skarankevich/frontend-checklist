@@ -58,7 +58,7 @@
 * All custom fonts have fallback `system fonts`
 
 ## Data Format
-* `Date` is stored in `UTC` (ISO 8601)
+* `Date` is stored in `UTC` ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601))
 
 ## Data Transfer
 * App communicates with server via `JSON`
