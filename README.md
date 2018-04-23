@@ -37,7 +37,7 @@
 ## Forms
 * The first field has `autofocus`
 * User is able to navigate through form fields by `Tab` button
-* Form elements have `valid/invalid` states
+* Form elements have `active/disabled/valid/invalid` states
 * Form submits on `Enter` key press
 
 ## Login Form
