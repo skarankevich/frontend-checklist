@@ -10,6 +10,7 @@
 * There is **no** `linting warnings or errors`
 
 ## Build
+* Production build runs with `NODE_ENV=production`
 * CSS and JS files have unique `hash` in filename e.g. `app.5d41402abc4b2a76b9719d911017c592.js`
 
 ## Landing Page
