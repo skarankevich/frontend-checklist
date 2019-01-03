@@ -68,3 +68,7 @@
 
 ## Offline Mode
 * App displays message while it's in `offline mode`
+
+## Analytics
+* App has `analytics` (Google Tag Manager, Google Analytics, Yandex.Metrika, etc) code for *production*
+* App has `bug hunter` (Bugsnag, Sentry, etc) code for *production*
