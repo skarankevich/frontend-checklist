@@ -77,7 +77,7 @@
 * Server is available in target country
 * Low latency
 * High bandwitch
-* Forever caching by unique filename is enabled (see [Build](#markdown-header-build) section)
+* Forever caching by unique filename is enabled (see [Build](#build) section)
 * GZip compression is enabled
 * SPA URL rewrite  is enabled (if needed)
 * HTTP/2 is enabled (if applicable)
