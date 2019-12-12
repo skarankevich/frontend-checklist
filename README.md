@@ -72,3 +72,12 @@
 ## Analytics
 * App has `analytics` (Google Tag Manager, Google Analytics, Yandex.Metrika, etc) code for *production*
 * App has `bug hunter` (Bugsnag, Sentry, etc) code for *production*
+
+## Deployment
+* Server is available in target country
+* Low latency
+* High bandwitch
+* Forever caching by unique filename is enabled (see [Build](#markdown-header-build) section)
+* GZip compression is enabled
+* SPA URL rewrite  is enabled (if needed)
+* HTTP/2 is enabled (if applicable)
